@@ -1,16 +1,44 @@
-## Hi there 👋
+# hi, i'm ananya :3
 
-<!--
-**aanwwya/aanwwya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+physio student • exploring computer science, ml & dsa
 
-Here are some ideas to get you started:
+i enjoy building things that are useful, interesting, and a little unconventional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### currently working with
+
+**languages**
+Python · JavaScript · TypeScript · C++ · SQL
+
+**frameworks, libraries & tools**
+FastAPI · React · React Native · MySQL · Pandas · NumPy · PyTorch · Git
+
+---
+
+### learning
+
+backend architecture · databases · algorithms · machine learning
+
+---
+
+### a few things i've built
+
+**[bioinfo](https://github.com/aanwwya/bioinfo)**
+small bioinformatics projects built with Python.
+
+**[dsa](https://github.com/aanwwya/leetcode-solutions)**
+leetcode solutions and problem solving with Python.
+
+**[soundgraph](https://github.com/aanwwya/soundgraph)**
+a visual exploration of music through genres and artists.
+
+---
+
+### links
+
+[Twitter / X](https://x.com/aanwwya) · [Email](mailto:ananya162005@gmail.com)
+
+---
+
+thanks for stopping by :3
