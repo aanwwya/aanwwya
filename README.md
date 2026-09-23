@@ -27,9 +27,6 @@ backend architecture · databases · algorithms · machine learning
 **[bioinfo](https://github.com/aanwwya/bioinfo)**
 small bioinformatics projects built with Python.
 
-**[dsa](https://github.com/aanwwya/leetcode-solutions)**
-leetcode solutions and problem solving with Python.
-
 **[soundgraph](https://github.com/aanwwya/soundgraph)**
 a visual exploration of music through genres and artists.
 
