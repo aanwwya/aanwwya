@@ -12,7 +12,7 @@ i enjoy building things that are useful, interesting, and a little unconventiona
 python · javascript · typescript · c++ · sql
 
 **frameworks, libraries & tools**
-fastapi · react · react native · mysql · pandas · numpy · Git
+fastapi · react · react native · mysql · pandas · numpy · git
 
 ---
 
