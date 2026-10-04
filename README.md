@@ -9,10 +9,10 @@ i enjoy building things that are useful, interesting, and a little unconventiona
 ### currently working with
 
 **languages**
-Python · JavaScript · TypeScript · C++ · SQL
+python · javascript · typescript · c++ · sql
 
 **frameworks, libraries & tools**
-FastAPI · React · React Native · MySQL · Pandas · NumPy · PyTorch · Git
+fastapi · react · react native · mysql · pandas · numpy · Git
 
 ---
 
